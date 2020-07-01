@@ -7,4 +7,4 @@ _10 проектная работа от **Яндекс.Практикум**_
 
 ### Html,css
 
-Рабочая версия доступна [тут](https://alexandr-exe.github.io/form)
+Рабочая версия доступна [тут](https://alexandr-exe.github.io/validation_form/)
